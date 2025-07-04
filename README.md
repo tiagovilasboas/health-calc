@@ -41,7 +41,7 @@ Uma aplicação Flutter moderna e intuitiva para cálculo de Índice de Massa Co
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/health-calc.git
+git clone https://github.com/tiagovilasboas/health-calc.git
 cd health-calc
 
 # Instale as dependências
@@ -170,9 +170,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-- **Desenvolvedor**: [Seu Nome]
-- **Email**: [seu-email@exemplo.com]
-- **GitHub**: [@seu-usuario]
+- **Desenvolvedor**: Tiago Vilas Boas
+- **Email**: tiagovilasboas@gmail.com
+- **GitHub**: [@tiagovilasboas](https://github.com/tiagovilasboas)
 
 ---
 
